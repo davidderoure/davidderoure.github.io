@@ -24,4 +24,5 @@ Here are some selected publications (in reverse chronological order):
 * D. De Roure, C. Goble, and R. Stevens, “The design and realisation of the myexperiment virtual research environment for social sharing of workflows,” Future Generation Computer Systems, vol. 25, pp. 561–567, May 2009.
 * D. De Roure, N. Jennings, and N. Shadbolt, “The semantic grid: Past, present, and future,” Proceedings of the IEEE, vol. 93, pp. 669–680, Mar 2005.
 * S. Middleton, N. Shadbolt, and D. De Roure, “Ontological user profiling in recommender systems,” ACM Transactions on Information Systems, vol. 22, pp. 54–88, Jan 2004.
+
 [back](./)
